@@ -1,0 +1,20 @@
+.img1st- {
+    /* width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    position: relative; */
+}
+
+.first-img {
+    /* width: 150px; */
+    /* height: 150px; */
+    /* background-color: #A020F0; Purple color */
+    /* border-radius: 10px; */
+    /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); */
+    /* transition: transform 0.1s ease-out; */
+     /* Smooth tilting transition */
+    transform-style: preserve-3d;
+}
